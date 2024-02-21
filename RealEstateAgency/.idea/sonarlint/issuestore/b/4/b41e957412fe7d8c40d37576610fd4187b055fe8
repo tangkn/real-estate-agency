@@ -1,0 +1,12 @@
+
+c
+java:S1192+"FDefine a constant instead of duplicating this literal "%,.2f" 8 times.(şÎË8¨ıéÚÜ1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(şÎË8ÁıéÚÜ1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(şä€ßûÿÿÿÿ8ÂıéÚÜ1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(áìªø8ÂıéÚÜ1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(™ĞÉÙ8ÃıéÚÜ1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(½¦ÚÃ8ÃıéÚÜ1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(è¶ùÿÿÿÿ8ÃıéÚÜ1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(˜Ş™³8ÄıéÚÜ1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ãîÕıÿÿÿÿ8ÄıéÚÜ1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ôó†8ÅıéÚÜ1

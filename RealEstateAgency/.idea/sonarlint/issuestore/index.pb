@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+^
+.src/main/java/org/pdev/realty/IRealEstate.java,e\f\eff06510813486a503fccc1d89220aa3efed3096
+W
+'src/main/java/org/pdev/Model/House.java,8\c\8c8415a088099d0cb1c8ede83452a30dbe99b406
+W
+'src/main/java/org/pdev/Model/Villa.java,a\9\a9ebbb6f07908e79ee82d5679c0d221bc228349f
+]
+-src/main/java/org/pdev/Model/SummerHouse.java,1\5\15671923dfe939ceb74f8497d69e32d021acddb9
+a
+1src/main/java/org/pdev/common/StringConstant.java,f\c\fccd3b405cffbfe7afa1fe47e35347fe07d7e142
+e
+5src/main/java/org/pdev/realty/IRealEstateService.java,d\3\d358b7910855f745c73e2bda0e81c2f9b5d8659e
+e
+5src/main/java/org/pdev/service/RealEstateService.java,c\b\cbeee04724699e218b0a671009832d5828980ea5
+P
+ src/main/java/org/pdev/Main.java,b\4\b41e957412fe7d8c40d37576610fd4187b055fe8
